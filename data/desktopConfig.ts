@@ -94,14 +94,14 @@ export const desktopConfig = {
     //   component: 'WeatherApp',
     //   author: 'Your Name Here', // Students customize this
     // },
-    // {
-    //   id: 'chat',
-    //   name: 'Chat',
-    //   icon: '💬',
-    //   color: 'bg-indigo-500',
-    //   component: 'ChatApp',
-    //   author: 'Your Name Here', // Students customize this
-    // },
+    {
+      id: 'chat',
+      name: 'Chat',
+      icon: '💬',
+      color: 'bg-indigo-500',
+      component: 'ChatApp',
+      author: 'Kush Vora', // Students customize this
+    },
   ],
 
   // dock: {
